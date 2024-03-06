@@ -1,4 +1,4 @@
-import React {navigate } from 'react'
+import React {navigate} from 'react'
 
 
 const goToLandingPage = () => {
