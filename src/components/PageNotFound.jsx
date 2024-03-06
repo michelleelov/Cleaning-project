@@ -1,5 +1,7 @@
-import React {navigate} from 'react'
+import React from 'react';
+import rec
 
+const navigate = useNavigate()
 
 const goToLandingPage = () => {
     navigate ("/")
